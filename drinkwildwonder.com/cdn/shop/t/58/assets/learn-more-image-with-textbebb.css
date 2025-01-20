@@ -1,0 +1,26 @@
+
+@media (min-width: 769px){
+.learn_more_img_with_text_cover .feature-row__text--right.learn_img_text_right_text_cover{
+      padding-right: 26px;
+}
+  .learn_more_img_with_text_cover .learn_img_text_right_image{      
+      padding-left: 35px;
+}
+.learn_more_img_with_text_cover .feature-row__text--left.learn_img_text_right_text_cover{
+      padding-left: 60px;
+}
+  .learn_more_img_with_text_cover .learn_more_img_text__image{
+  width: 35%;
+}
+}
+
+@media (max-width:768px){
+ .learn_more_img_with_text_cover .learn_img_w_text_text_width{
+    max-width:100%;
+  }
+  .learn_more_img_with_text_cover .learn_more_img_text__image {
+    width: 100%;
+    padding-left: 0;
+    padding-right: 0;
+}
+}

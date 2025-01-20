@@ -1,0 +1,27 @@
+.blog_main_banner .blog_title_cover {
+    padding: 14% 0 8%;
+}
+.blog_main_banner .blog_sub_heading{
+ font-family: Rubik, sans-serif;
+    font-weight: 600;
+    font-size: 20px;
+    text-transform: uppercase; 
+}
+.blog_main_banner .blog_heading {
+    font-size: 85px; 
+}
+.blog_main_banner{
+    padding-top:5px;
+}
+
+@media (max-width:768px){
+.blog_main_banner .blog_title_cover{
+     padding: 24% 0 14%; 
+}  
+  .blog_main_banner .blog_heading {
+    font-size: 65px;
+}
+  .blog_main_banner .blog_sub_heading{
+        font-size: 16px;
+  }
+}

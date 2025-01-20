@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://drinkwildwonder.com/blogs/mixology.atom</id>
+  <link rel="alternate" type="text/html" href="https://drinkwildwonder.com/blogs/mixology"/>
+  <link rel="self" type="application/atom+xml" href="https://drinkwildwonder.com/blogs/mixology/tagged/mixology.atom"/>
+  <title>wildwonder - Mixology</title>
+  <updated>2024-12-20T14:22:05-08:00</updated>
+  <author>
+    <name>wildwonder</name>
+  </author>
+  <entry>
+    <id>https://drinkwildwonder.com/blogs/mixology/berry-nojito</id>
+    <published>2024-12-20T14:22:05-08:00</published>
+    <updated>2025-01-15T11:44:40-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://drinkwildwonder.com/blogs/mixology/berry-nojito"/>
+    <title>Berry Nojito</title>
+    <author>
+      <name>Wildwonder Team</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://drinkwildwonder.com/blogs/mixology/pineapple-cucumber-refresher</id>
+    <published>2024-10-29T00:33:57-07:00</published>
+    <updated>2025-01-15T11:48:33-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://drinkwildwonder.com/blogs/mixology/pineapple-cucumber-refresher"/>
+    <title>Pineapple Cucumber Refresher</title>
+    <author>
+      <name>Wildwonder Team</name>
+    </author>
+    <content type="html">
+      <![CDATA[<div class="recipes_cover">
+<div class="recipes_inner">
+<div class="ingredients_main">
+<div class="ingredients_cover">
+<h3 class="text-center"></h3>
+</div>
+</div>
+<div class="instructions_cover">
+<div class="instructions_item_cover"></div>
+</div>
+</div>
+</div>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://drinkwildwonder.com/blogs/mixology/dole-whip</id>
+    <published>2024-10-26T04:39:35-07:00</published>
+    <updated>2025-01-15T11:49:04-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://drinkwildwonder.com/blogs/mixology/dole-whip"/>
+    <title>Dole Whip</title>
+    <author>
+      <name>Wildwonder Team</name>
+    </author>
+    <content type="html">
+      <![CDATA[<div class="recipes_cover">
+<div class="recipes_inner">
+<div class="ingredients_main">
+<div class="ingredients_cover">
+<h3 class="text-center"></h3>
+</div>
+</div>
+<div class="instructions_cover">
+<div class="instructions_item_cover"></div>
+</div>
+</div>
+</div>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://drinkwildwonder.com/blogs/mixology/strawberry-thai-tea</id>
+    <published>2024-10-26T04:36:53-07:00</published>
+    <updated>2025-01-15T11:49:42-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://drinkwildwonder.com/blogs/mixology/strawberry-thai-tea"/>
+    <title>Strawberry Thai Tea</title>
+    <author>
+      <name>Wildwonder Team</name>
+    </author>
+    <content type="html">
+      <![CDATA[<div class="recipes_cover">
+<div class="recipes_inner">
+<div class="ingredients_main">
+<div class="ingredients_cover">
+<h3 class="text-center"></h3>
+</div>
+</div>
+<div class="instructions_cover">
+<div class="instructions_item_cover"></div>
+</div>
+</div>
+</div>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://drinkwildwonder.com/blogs/mixology/pride-mocktail</id>
+    <published>2024-10-26T04:36:15-07:00</published>
+    <updated>2025-01-15T11:51:30-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://drinkwildwonder.com/blogs/mixology/pride-mocktail"/>
+    <title>Pride Mocktail</title>
+    <author>
+      <name>Wildwonder Team</name>
+    </author>
+    <content type="html">
+      <![CDATA[<div class="recipes_cover">
+<div class="recipes_inner">
+<div class="ingredients_main">
+<div class="ingredients_cover">
+<h3 class="text-center"></h3>
+</div>
+</div>
+<div class="instructions_cover">
+<div class="instructions_item_cover"></div>
+</div>
+</div>
+</div>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://drinkwildwonder.com/blogs/mixology/guava-rose-mockarita</id>
+    <published>2024-10-26T04:36:07-07:00</published>
+    <updated>2025-01-15T11:52:18-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://drinkwildwonder.com/blogs/mixology/guava-rose-mockarita"/>
+    <title>Guava Rose Mockarita</title>
+    <author>
+      <name>Wildwonder Team</name>
+    </author>
+    <content type="html">
+      <![CDATA[<div class="recipes_cover">
+<div class="recipes_inner">
+<div class="ingredients_main">
+<div class="ingredients_cover">
+<h3 class="text-center"></h3>
+</div>
+</div>
+<div class="instructions_cover">
+<div class="instructions_item_cover"></div>
+</div>
+</div>
+</div>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://drinkwildwonder.com/blogs/mixology/frozen-raspberry-lychee-martini</id>
+    <published>2024-10-26T04:35:43-07:00</published>
+    <updated>2025-01-15T11:52:59-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://drinkwildwonder.com/blogs/mixology/frozen-raspberry-lychee-martini"/>
+    <title>Frozen Raspberry Lychee Martini</title>
+    <author>
+      <name>Wildwonder Team</name>
+    </author>
+    <content type="html">
+      <![CDATA[<div class="recipes_cover">
+<div class="recipes_inner">
+<div class="ingredients_main">
+<div class="ingredients_cover">
+<h3 class="text-center"></h3>
+</div>
+</div>
+<div class="instructions_cover">
+<div class="instructions_item_cover"></div>
+</div>
+</div>
+</div>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://drinkwildwonder.com/blogs/mixology/raspberry-lychee-pink-lemonade</id>
+    <published>2024-10-26T04:32:28-07:00</published>
+    <updated>2025-01-15T11:59:16-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://drinkwildwonder.com/blogs/mixology/raspberry-lychee-pink-lemonade"/>
+    <title>Raspberry Lychee Pink Lemonade</title>
+    <author>
+      <name>Wildwonder Team</name>
+    </author>
+    <content type="html">
+      <![CDATA[<div class="recipes_cover">
+<div class="recipes_inner">
+<div class="ingredients_main">
+<div class="ingredients_cover">
+<h3 class="text-center"></h3>
+</div>
+</div>
+<div class="instructions_cover">
+<div class="instructions_item_cover"></div>
+</div>
+</div>
+</div>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://drinkwildwonder.com/blogs/mixology/mango-sunrise</id>
+    <published>2024-10-26T04:32:01-07:00</published>
+    <updated>2025-01-15T11:55:53-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://drinkwildwonder.com/blogs/mixology/mango-sunrise"/>
+    <title>Mango Sunrise</title>
+    <author>
+      <name>Wildwonder Team</name>
+    </author>
+    <content type="html">
+      <![CDATA[<div class="recipes_cover">
+<div class="recipes_inner">
+<div class="ingredients_main">
+<div class="ingredients_cover">
+<h3 class="text-center"></h3>
+</div>
+</div>
+<div class="instructions_cover">
+<div class="instructions_item_cover"></div>
+</div>
+</div>
+</div>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://drinkwildwonder.com/blogs/mixology/spicy-mango-margarita</id>
+    <published>2024-10-26T04:31:34-07:00</published>
+    <updated>2025-01-15T12:17:46-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://drinkwildwonder.com/blogs/mixology/spicy-mango-margarita"/>
+    <title>Spicy Mango Margarita</title>
+    <author>
+      <name>Wildwonder Team</name>
+    </author>
+    <content type="html">
+      <![CDATA[<div class="recipes_cover">
+<div class="recipes_inner">
+<div class="ingredients_main">
+<div class="ingredients_cover">
+<h3 class="text-center"></h3>
+</div>
+</div>
+<div class="instructions_cover">
+<div class="instructions_item_cover"></div>
+</div>
+</div>
+</div>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://drinkwildwonder.com/blogs/mixology/coconut-pineapple-margarita</id>
+    <published>2024-10-26T04:29:35-07:00</published>
+    <updated>2025-01-15T11:58:33-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://drinkwildwonder.com/blogs/mixology/coconut-pineapple-margarita"/>
+    <title>Coconut Pineapple Margarita</title>
+    <author>
+      <name>Wildwonder Team</name>
+    </author>
+    <content type="html">
+      <![CDATA[<div class="recipes_cover">
+<div class="recipes_inner">
+<div class="ingredients_main">
+<div class="ingredients_cover">
+<h3 class="text-center"></h3>
+</div>
+</div>
+<div class="instructions_cover">
+<div class="instructions_item_cover"></div>
+</div>
+</div>
+</div>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://drinkwildwonder.com/blogs/mixology/raspberry-sour-mocktail</id>
+    <published>2024-10-26T04:26:52-07:00</published>
+    <updated>2025-01-15T11:59:24-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://drinkwildwonder.com/blogs/mixology/raspberry-sour-mocktail"/>
+    <title>Raspberry Sour Mocktail</title>
+    <author>
+      <name>Wildwonder Team</name>
+    </author>
+    <content type="html">
+      <![CDATA[<div class="recipes_cover">
+<div class="recipes_inner">
+<div class="ingredients_main">
+<div class="ingredients_cover">
+<h3 class="text-center"></h3>
+</div>
+</div>
+<div class="instructions_cover">
+<div class="instructions_item_cover"></div>
+</div>
+</div>
+</div>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://drinkwildwonder.com/blogs/mixology/raspberry-lychee-martini-mocktail</id>
+    <published>2024-10-26T04:24:18-07:00</published>
+    <updated>2025-01-15T12:00:34-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://drinkwildwonder.com/blogs/mixology/raspberry-lychee-martini-mocktail"/>
+    <title>Raspberry Lychee Martini Mocktail</title>
+    <author>
+      <name>Wildwonder Team</name>
+    </author>
+    <content type="html">
+      <![CDATA[<div class="recipes_cover">
+<div class="recipes_inner">
+<div class="ingredients_main">
+<div class="ingredients_cover">
+<h3 class="text-center"></h3>
+</div>
+</div>
+<div class="instructions_cover">
+<div class="instructions_item_cover"></div>
+</div>
+</div>
+</div>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://drinkwildwonder.com/blogs/mixology/clementine-smash</id>
+    <published>2024-10-26T04:20:54-07:00</published>
+    <updated>2025-01-15T12:01:02-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://drinkwildwonder.com/blogs/mixology/clementine-smash"/>
+    <title>Clementine Peach Ginger Smash</title>
+    <author>
+      <name>Wildwonder Team</name>
+    </author>
+    <content type="html">
+      <![CDATA[<div class="recipes_cover">
+<div class="recipes_inner">
+<div class="ingredients_main">
+<div class="ingredients_cover">
+<h3 class="text-center"></h3>
+</div>
+</div>
+<div class="instructions_cover">
+<div class="instructions_item_cover"></div>
+</div>
+</div>
+</div>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://drinkwildwonder.com/blogs/mixology/berry-bliss-mocktail</id>
+    <published>2024-10-26T04:19:10-07:00</published>
+    <updated>2025-01-15T12:02:47-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://drinkwildwonder.com/blogs/mixology/berry-bliss-mocktail"/>
+    <title>Berry Bliss Mocktail</title>
+    <author>
+      <name>Wildwonder Team</name>
+    </author>
+    <content type="html">
+      <![CDATA[<div class="recipes_cover">
+<div class="recipes_inner">
+<div class="ingredients_main">
+<div class="ingredients_cover">
+<h3 class="text-center"></h3>
+</div>
+</div>
+<div class="instructions_cover">
+<div class="instructions_item_cover"></div>
+</div>
+</div>
+</div>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://drinkwildwonder.com/blogs/mixology/blood-orange-creamsicle-mocktail</id>
+    <published>2024-10-26T04:11:10-07:00</published>
+    <updated>2025-01-15T12:06:09-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://drinkwildwonder.com/blogs/mixology/blood-orange-creamsicle-mocktail"/>
+    <title>Blood Orange Creamsicle Mocktail</title>
+    <author>
+      <name>Wildwonder Team</name>
+    </author>
+    <content type="html">
+      <![CDATA[<div class="recipes_cover">
+<div class="recipes_inner">
+<div class="ingredients_main">
+<div class="ingredients_cover">
+<h3 class="text-center"></h3>
+</div>
+</div>
+<div class="instructions_cover">
+<div class="instructions_item_cover"></div>
+</div>
+</div>
+</div>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://drinkwildwonder.com/blogs/mixology/guava-rose-mojito-mocktail</id>
+    <published>2024-10-26T04:07:32-07:00</published>
+    <updated>2025-01-15T08:53:29-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://drinkwildwonder.com/blogs/mixology/guava-rose-mojito-mocktail"/>
+    <title>Guava Rose Mojito Mocktail</title>
+    <author>
+      <name>Wildwonder Team</name>
+    </author>
+    <content type="html">
+      <![CDATA[<div class="recipes_cover">
+<div class="recipes_inner">
+<div class="ingredients_main">
+<div class="ingredients_cover">
+<h3 class="text-center"></h3>
+</div>
+</div>
+<div class="instructions_cover">
+<div class="instructions_item_cover"></div>
+</div>
+</div>
+</div>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://drinkwildwonder.com/blogs/mixology/strawberry-matcha</id>
+    <published>2024-10-26T03:53:27-07:00</published>
+    <updated>2025-01-15T12:07:21-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://drinkwildwonder.com/blogs/mixology/strawberry-matcha"/>
+    <title>Strawberry Matcha</title>
+    <author>
+      <name>Wildwonder Team</name>
+    </author>
+    <content type="html">
+      <![CDATA[<div class="recipes_cover">
+<div class="recipes_inner">
+<div class="ingredients_main">
+<div class="ingredients_cover">
+<h3 class="text-center"></h3>
+</div>
+</div>
+<div class="instructions_cover">
+<div class="instructions_item_cover"></div>
+</div>
+</div>
+</div>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://drinkwildwonder.com/blogs/mixology/frozen-banana-coffee-bliss</id>
+    <published>2024-10-26T03:46:07-07:00</published>
+    <updated>2025-01-15T12:22:59-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://drinkwildwonder.com/blogs/mixology/frozen-banana-coffee-bliss"/>
+    <title>Frozen Banana Coffee Bliss</title>
+    <author>
+      <name>Wildwonder Team</name>
+    </author>
+    <content type="html">
+      <![CDATA[<div class="recipes_cover">
+<div class="recipes_inner">
+<div class="ingredients_main">
+<div class="ingredients_cover">
+<h3 class="text-center"></h3>
+</div>
+</div>
+<div class="instructions_cover">
+<div class="instructions_item_cover"></div>
+</div>
+</div>
+</div>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://drinkwildwonder.com/blogs/mixology/apple-cider-mule</id>
+    <published>2024-10-26T03:19:46-07:00</published>
+    <updated>2025-01-15T12:11:36-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://drinkwildwonder.com/blogs/mixology/apple-cider-mule"/>
+    <title>Peach Ginger Apple Cider Mule</title>
+    <author>
+      <name>Wildwonder Team</name>
+    </author>
+    <content type="html">
+      <![CDATA[<div class="recipes_cover">
+<div class="recipes_inner">
+<div class="ingredients_main">
+<div class="ingredients_cover">
+<h3 class="text-center"></h3>
+</div>
+</div>
+<div class="instructions_cover">
+<div class="instructions_item_cover"></div>
+</div>
+</div>
+</div>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://drinkwildwonder.com/blogs/mixology/banana-ice-cream-float</id>
+    <published>2024-08-28T09:09:18-07:00</published>
+    <updated>2025-01-15T12:12:47-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://drinkwildwonder.com/blogs/mixology/banana-ice-cream-float"/>
+    <title>Banana Ice Cream Float</title>
+    <author>
+      <name>Wildwonder Team</name>
+    </author>
+    <content type="html">
+      <![CDATA[<div class="recipes_cover">
+<div class="recipes_inner">
+<div class="ingredients_main">
+<div class="ingredients_cover">
+<h3 class="text-center"></h3>
+</div>
+</div>
+<div class="instructions_cover">
+<div class="instructions_item_cover"></div>
+</div>
+</div>
+</div>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://drinkwildwonder.com/blogs/mixology/strawberry-hwachae</id>
+    <published>2024-08-26T08:58:25-07:00</published>
+    <updated>2025-01-15T12:13:43-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://drinkwildwonder.com/blogs/mixology/strawberry-hwachae"/>
+    <title>Strawberry Hwachae</title>
+    <author>
+      <name>Wildwonder Team</name>
+    </author>
+    <summary type="html">
+      <![CDATA[<p><meta charset="utf-8"><span data-mce-fragment="1">Sweet &amp; refreshing Strawberry Hwachae recipe: discover the delicious Korean fruit punch.</span></p><p><a class="read-more" href="https://drinkwildwonder.com/blogs/mixology/strawberry-hwachae">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[<div class="recipes_cover">
+<div class="recipes_inner">
+<div class="ingredients_main">
+<div class="ingredients_cover">
+<h3 class="text-center"></h3>
+</div>
+</div>
+<div class="instructions_cover">
+<div class="instructions_item_cover"></div>
+</div>
+</div>
+</div>]]>
+    </content>
+  </entry>
+</feed>

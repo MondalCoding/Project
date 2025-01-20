@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://drinkwildwonder.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://drinkwildwonder.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://drinkwildwonder.com/collections/variety-packs.atom"/>
+  <title>wildwonder</title>
+  <updated>2024-08-14T07:50:25-07:00</updated>
+  <author>
+    <name>wildwonder</name>
+  </author>
+  <entry>
+    <id>https://drinkwildwonder.com/products/7424272859325</id>
+    <published>2024-08-14T07:50:25-07:00</published>
+    <updated>2024-08-14T07:50:25-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://drinkwildwonder.com/products/shark-tank-bundle"/>
+    <title>Shark Tank Bundle</title>
+    <s:type>Fruit Flavored Drinks</s:type>
+    <s:vendor>wildwonder</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0264/8952/0171/files/Variety_Pack_-_Shark_Tank_2.png?v=1724416169"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>wildwonder<br>
+        <strong>Type: </strong>Fruit Flavored Drinks<br>
+        <strong>Price: </strong>
+            88.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Try our Shark-Tank featured flavors that had all the Sharks raving... and landed us a deal!</p>
+<p>Includes 4 cans of each: Raspberry Lychee, Pineapple Paradise, Strawberry Passion, Mango Gold, Guava Rose and Peach Ginger</p>
+<p>Discount applied at check out. One promo per order.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>variety packs</s:tag>
+    <s:variant>
+      <id>https://drinkwildwonder.com/products/7424272859325</id>
+      <title>24 cans / case</title>
+      <s:price currency="USD">88.00</s:price>
+      <s:sku>VARIETY-PACK-ST</s:sku>
+      <s:grams>9979</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://drinkwildwonder.com/products/7215777448125</id>
+    <published>2024-08-14T07:50:23-07:00</published>
+    <updated>2024-08-14T07:50:23-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://drinkwildwonder.com/products/botanical-bouquet"/>
+    <title>Botanical Bouquet</title>
+    <s:type>Fruit Flavored Drinks</s:type>
+    <s:vendor>Wildwonder</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0264/8952/0171/files/VarietyPack-BotanicalBundle.png?v=1714541381"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wildwonder<br>
+        <strong>Type: </strong>Fruit Flavored Drinks<br>
+        <strong>Price: </strong>
+            44.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A delightful dozen featuring our bestselling floral and fruity favorites.</p>
+<p>Includes 4 cans of each: Raspberry Lychee, Guava Rose, Strawberry Passion</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hidden:Delivery every 10 weeks - 15% off</s:tag>
+    <s:tag>hidden:Delivery every 6 weeks - 15% off</s:tag>
+    <s:tag>variety packs</s:tag>
+    <s:variant>
+      <id>https://drinkwildwonder.com/products/7215777448125</id>
+      <title>12 Pack</title>
+      <s:price currency="USD">44.00</s:price>
+      <s:sku>BOTANICAL-VAR-12</s:sku>
+      <s:grams>5443</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://drinkwildwonder.com/products/6855459668157</id>
+    <published>2024-08-14T07:50:18-07:00</published>
+    <updated>2024-08-14T07:50:18-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://drinkwildwonder.com/products/variety-pack"/>
+    <title>Variety Pack</title>
+    <s:type>Fruit Flavored Drinks</s:type>
+    <s:vendor>Wildwonder</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0264/8952/0171/files/Variety_Pack_-_6_Flavors_12_Cans_2.png?v=1724415930"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wildwonder<br>
+        <strong>Type: </strong>Fruit Flavored Drinks<br>
+        <strong>Price: </strong>
+            44.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><meta charset="utf-8">Can't decide on just one flavor? Experience all 6 prebiotic + probiotics flavors and all their gut friendly benefits!</p>
+<p data-mce-fragment="1">Includes 2 cans of each: Raspberry Lychee, Pineapple Paradise, Strawberry Passion, Mango Gold, Guava Rose and Peach Ginger.<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hidden:Delivery every 10 weeks - 15% off</s:tag>
+    <s:tag>hidden:Delivery every 6 weeks - 15% off</s:tag>
+    <s:tag>variety packs</s:tag>
+    <s:variant>
+      <id>https://drinkwildwonder.com/products/6855459668157</id>
+      <title>12 Cans</title>
+      <s:price currency="USD">44.00</s:price>
+      <s:sku>VARIETY-PACK-12</s:sku>
+      <s:grams>4990</s:grams>
+    </s:variant>
+  </entry>
+</feed>

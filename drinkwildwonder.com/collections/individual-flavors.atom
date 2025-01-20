@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://drinkwildwonder.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://drinkwildwonder.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://drinkwildwonder.com/collections/individual-flavors.atom"/>
+  <title>wildwonder</title>
+  <updated>2024-08-14T07:50:38-07:00</updated>
+  <author>
+    <name>wildwonder</name>
+  </author>
+  <entry>
+    <id>https://drinkwildwonder.com/products/7297827274941</id>
+    <published>2024-08-14T07:50:38-07:00</published>
+    <updated>2024-08-14T07:50:38-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://drinkwildwonder.com/products/mango-gold"/>
+    <title>Mango Gold</title>
+    <s:type>Fruit Flavored Drinks</s:type>
+    <s:vendor>Wildwonder</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0264/8952/0171/files/Mango_1.png?v=1714540147"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wildwonder<br>
+        <strong>Type: </strong>Fruit Flavored Drinks<br>
+        <strong>Price: </strong>
+            42.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Sweet sun-ripened mangos balanced with fresh brewed turmeric root and tart passion fruit in this tropical refresher.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hidden:Delivery every 10 weeks - 15% off</s:tag>
+    <s:tag>hidden:Delivery every 6 weeks - 15% off</s:tag>
+    <s:variant>
+      <id>https://drinkwildwonder.com/products/7297827274941</id>
+      <title>12 Pack</title>
+      <s:price currency="USD">42.00</s:price>
+      <s:sku>MANGO-GOLD-12</s:sku>
+      <s:grams>4990</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://drinkwildwonder.com/products/7574581379261</id>
+    <published>2024-08-14T07:50:28-07:00</published>
+    <updated>2024-08-14T07:50:28-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://drinkwildwonder.com/products/raspberry-lychee"/>
+    <title>Raspberry Lychee</title>
+    <s:type>Fruit Flavored Drinks</s:type>
+    <s:vendor>Wildwonder</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0264/8952/0171/files/Raspberry_1.png?v=1714540347"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wildwonder<br>
+        <strong>Type: </strong>Fruit Flavored Drinks<br>
+        <strong>Price: </strong>
+            42.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Jammy raspberry puree, juicy lychees, and fresh brewed honeysuckle flowers reminiscent of your favorite gummy treats.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://drinkwildwonder.com/products/7574581379261</id>
+      <title>12 Pack</title>
+      <s:price currency="USD">42.00</s:price>
+      <s:sku>RASPBERRY-LYCHEE-12</s:sku>
+      <s:grams>4990</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://drinkwildwonder.com/products/7471935389885</id>
+    <published>2024-08-14T07:50:27-07:00</published>
+    <updated>2024-08-14T07:50:27-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://drinkwildwonder.com/products/pineapple-paradise"/>
+    <title>Pineapple Paradise</title>
+    <s:type>Fruit Flavored Drinks</s:type>
+    <s:vendor>Wildwonder</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0264/8952/0171/files/Pineapple_1_green.png?v=1722475205"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wildwonder<br>
+        <strong>Type: </strong>Fruit Flavored Drinks<br>
+        <strong>Price: </strong>
+            42.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Sun-kissed pineapple, zesty lime, and citrusy tangerine juice for a poolside getaway in a can. A light twist of Sichuan peppercorn rounds out this tropical flavor with a warm hint of spice. </p>
+<p data-mce-fragment="1">*can color may vary</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hidden:Delivery every 10 weeks - 15% off</s:tag>
+    <s:tag>hidden:Delivery every 6 weeks - 15% off</s:tag>
+    <s:variant>
+      <id>https://drinkwildwonder.com/products/7471935389885</id>
+      <title>12 Pack</title>
+      <s:price currency="USD">42.00</s:price>
+      <s:sku>PINEAPPLE-PARADISE-12</s:sku>
+      <s:grams>5443</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://drinkwildwonder.com/products/7180887490749</id>
+    <published>2024-08-14T07:50:21-07:00</published>
+    <updated>2024-08-14T07:50:21-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://drinkwildwonder.com/products/strawberry-passion"/>
+    <title>Strawberry Passion</title>
+    <s:type>Fruit Flavored Drinks</s:type>
+    <s:vendor>Wildwonder</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0264/8952/0171/files/Strawberry_1.png?v=1714540479"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wildwonder<br>
+        <strong>Type: </strong>Fruit Flavored Drinks<br>
+        <strong>Price: </strong>
+            42.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Ripe strawberries and tart passion fruit meet freshly brewed hibiscus flowers for a sweet and tropical refresher.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hidden:Delivery every 10 weeks - 15% off</s:tag>
+    <s:tag>hidden:Delivery every 6 weeks - 15% off</s:tag>
+    <s:variant>
+      <id>https://drinkwildwonder.com/products/7180887490749</id>
+      <title>12 Pack</title>
+      <s:price currency="USD">42.00</s:price>
+      <s:sku>STRAWBERRY-PASSION-12</s:sku>
+      <s:grams>5443</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://drinkwildwonder.com/products/6855467466941</id>
+    <published>2024-08-14T07:50:20-07:00</published>
+    <updated>2024-08-14T07:50:20-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://drinkwildwonder.com/products/peach-ginger"/>
+    <title>Peach Ginger</title>
+    <s:type>Fruit Flavored Drinks</s:type>
+    <s:vendor>Wildwonder</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0264/8952/0171/files/Peach_1.png?v=1714540243"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wildwonder<br>
+        <strong>Type: </strong>Fruit Flavored Drinks<br>
+        <strong>Price: </strong>
+            42.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Succulent peach and freshly brewed ginger root make this twist on sweet peach tea irresistible.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hidden:Delivery every 10 weeks - 15% off</s:tag>
+    <s:tag>hidden:Delivery every 6 weeks - 15% off</s:tag>
+    <s:variant>
+      <id>https://drinkwildwonder.com/products/6855467466941</id>
+      <title>12 Pack</title>
+      <s:price currency="USD">42.00</s:price>
+      <s:sku>PEACH-GINGER-12</s:sku>
+      <s:grams>5443</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://drinkwildwonder.com/products/6802419384509</id>
+    <published>2024-08-14T07:50:16-07:00</published>
+    <updated>2024-08-14T07:50:16-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://drinkwildwonder.com/products/guava-rose"/>
+    <title>Guava Rose</title>
+    <s:type>Fruit Flavored Drinks</s:type>
+    <s:vendor>Wildwonder</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0264/8952/0171/files/Guava_1.png?v=1714539969"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wildwonder<br>
+        <strong>Type: </strong>Fruit Flavored Drinks<br>
+        <strong>Price: </strong>
+            42.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Tropical pink guava, freshly brewed rose petals, and soothing elderberry for a fruity and floral pink drink.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hidden:Delivery every 10 weeks - 15% off</s:tag>
+    <s:tag>hidden:Delivery every 6 weeks - 15% off</s:tag>
+    <s:variant>
+      <id>https://drinkwildwonder.com/products/6802419384509</id>
+      <title>12 Pack</title>
+      <s:price currency="USD">42.00</s:price>
+      <s:sku>GUAVA-ROSE-12</s:sku>
+      <s:grams>5443</s:grams>
+    </s:variant>
+  </entry>
+</feed>
